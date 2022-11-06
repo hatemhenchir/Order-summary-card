@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo]()
-- Live Site URL: [Live site]()
+- Solution URL: [GitHub repo](https://github.com/hatemhenchir/Order-summary-card)
+- Live Site URL: [Live site](https://hatemhenchir.github.io/Order-summary-card/)
 
 ## My process
 
